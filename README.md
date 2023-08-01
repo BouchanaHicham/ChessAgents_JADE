@@ -1,4 +1,4 @@
-# Multi-Agent Chess
+# Multi-Agent Chess ♟️
 
 ## Description
 Multi-Agent Chess is a chess-playing program built on JADE (Java Agent Development Framework). Each chess piece is represented as an agent capable of communicating with a central "Robot" agent. The program demonstrates multi-agent systems and intelligent agent interactions. The graphical interface allows users to visualize the legal moves for each piece.
