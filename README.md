@@ -26,3 +26,6 @@ Please note that this project is still a work in progress, and some features may
 ## License
 This project is licensed under the [MIT License](LICENSE).
 
+## Author
+
+**Bouchana Hicham**
